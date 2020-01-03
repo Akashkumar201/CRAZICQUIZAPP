@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CRAZICQUIZ</string>
+    <string name="title">CRAZICQUIZ</string>
+    <string name="true_title">TRUE</string>
+    <string name="button_title">FALSE</string>
+    <string name="counter_text">0 out of 100</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="wrong_answer">Wrong!</string>
+
+</resources>
